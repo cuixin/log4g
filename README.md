@@ -33,7 +33,7 @@ output set the nil argument, just only print to console)
 
 examples&banchmark
 -------
-    test 100k lines to print:
+    test 1000k lines to print:
     $>go run examples/test.go
     $>tail -f logging.log
 
